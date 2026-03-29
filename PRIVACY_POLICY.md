@@ -25,7 +25,7 @@ We may update this privacy policy from time to time. Any changes will be indicat
 If you have any questions about this Privacy Policy, please contact us:
 
 - **Developer:** Yesica Tiara
-- **Email:** [your.email@example.com]
+- **Email:** harapancitra41@gmail.com
 
 ---
 
