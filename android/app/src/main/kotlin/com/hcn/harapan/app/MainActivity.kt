@@ -1,0 +1,6 @@
+package com.hcn.harapan.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
